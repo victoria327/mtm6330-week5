@@ -1,6 +1,10 @@
 @import 'custom';
 @import '../node_modules/bootstrap/scss/bootstrap';
 
+body {
+  padding: 2rem 0;
+}
+
 // Responsive typography sizes using Bootstrap mixins for the media querries
 html {
   font-size: 14px;
