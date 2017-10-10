@@ -3,12 +3,12 @@
 
 // Responsive typography sizes using Bootstrap mixins for the media querries
 html {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 @include media-breakpoint-up(sm) {
   html {
-    font-size: 16px;
+    font-size: 15px;
   }
 }
 
